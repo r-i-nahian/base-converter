@@ -1,0 +1,16 @@
+{
+  "name": "Base Converter",
+  "version": "1.00",
+  "description": "This is a tool for converting a number from one base to another base .",
+  "launch_path": "/index.html",
+  "icons": {
+    "64": "/img/icon64.png",
+    "128": "/img/icon128.png",
+    "512": "/img/icon512.png"
+  },
+  "developer": {
+    "name": "Rashik Ishrak Nahian",
+    "url": "http://about.me/r.i.nahian"
+  },
+  "default_locale": "en"
+}
